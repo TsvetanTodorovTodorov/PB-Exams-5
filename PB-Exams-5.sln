@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-TravelAgency", "03-Trave
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Club", "04-Club\04-Club.vcxproj", "{EBD67B81-5359-46D0-9C8F-405B2E9B2A45}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04-Renovation", "04-Renovation\04-Renovation.vcxproj", "{50217E3F-2021-40AF-BAC1-6172DA729D0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{EBD67B81-5359-46D0-9C8F-405B2E9B2A45}.Release|x64.Build.0 = Release|x64
 		{EBD67B81-5359-46D0-9C8F-405B2E9B2A45}.Release|x86.ActiveCfg = Release|Win32
 		{EBD67B81-5359-46D0-9C8F-405B2E9B2A45}.Release|x86.Build.0 = Release|Win32
+		{50217E3F-2021-40AF-BAC1-6172DA729D0C}.Debug|x64.ActiveCfg = Debug|x64
+		{50217E3F-2021-40AF-BAC1-6172DA729D0C}.Debug|x64.Build.0 = Debug|x64
+		{50217E3F-2021-40AF-BAC1-6172DA729D0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{50217E3F-2021-40AF-BAC1-6172DA729D0C}.Debug|x86.Build.0 = Debug|Win32
+		{50217E3F-2021-40AF-BAC1-6172DA729D0C}.Release|x64.ActiveCfg = Release|x64
+		{50217E3F-2021-40AF-BAC1-6172DA729D0C}.Release|x64.Build.0 = Release|x64
+		{50217E3F-2021-40AF-BAC1-6172DA729D0C}.Release|x86.ActiveCfg = Release|Win32
+		{50217E3F-2021-40AF-BAC1-6172DA729D0C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
